@@ -29,3 +29,6 @@ Creating a new branch is quick AND simple.
 创建冲突
 合并分支的另一种方法
 修改bug101
+
+正在工作中,突然有一个bug要修复
+git stash
